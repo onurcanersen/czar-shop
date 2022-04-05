@@ -1,0 +1,14 @@
+.nav .nav-list {
+  list-style: none;
+}
+
+.nav .nav-list .nav-list-item {
+  display: inline-block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.nav .nav-list .nav-list-item .nav-list-item-link {
+  text-decoration: none;
+  font-size: 14px;
+}
